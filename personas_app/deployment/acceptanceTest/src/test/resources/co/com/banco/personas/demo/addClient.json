@@ -1,0 +1,12 @@
+{
+  "persona": {
+    "nombre": "Jose Lema",
+    "genero": "masculino",
+    "edad": 25,
+    "identificacion": "123456789",
+    "direccion": "calle falsa 123",
+    "telefono": "3114445555"
+  },
+  "contrasenna": "1234",
+  "estado": true
+}
